@@ -72,29 +72,3 @@
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://fastapi.tiangolo.com/"><img alt="Flask" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"></a>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=goyalpramod&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goyalpramod&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/goyalpramod"><img alt="Aastha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=goyalpramod&theme=github-compact" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-[My Portfolio Website](https://goyalpramod.vercel.app/)
