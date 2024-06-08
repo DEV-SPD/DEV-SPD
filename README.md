@@ -17,13 +17,10 @@
 - 💬 Talk to me about Data science & AI/ML
 - 👯 I’m looking to collaborate on AI Research Projects, Langchain Based Projects, AI Powered App Development Projects. 
 
-<a href="https://www.linkedin.com/in/goyalpramod/" target="_blank">
+<a href="https://www.linkedin.com/in/siba-prasad-das-b61b5a220/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-  <a href="https://www.kaggle.com/pramodgoyal" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a> 
-  <a href="mailto:goyalpramod1729@gmail.com" target="_blank">
+  <a href="mailto:sibaprasaddas.nitr@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 
