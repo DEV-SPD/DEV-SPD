@@ -15,7 +15,7 @@
 - 👋 Hi, I’m Siba Prasad Das
 - 💼 I'm a student in NIT rourkela 
 - 💬 Talk to me about Data science & AI/ML
-- 👯 I’m looking to collaborate on LangChain projects 
+- 👯 I’m looking to collaborate on AI Research Projects 
 
 <a href="https://www.linkedin.com/in/goyalpramod/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
