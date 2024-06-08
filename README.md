@@ -13,7 +13,7 @@
 <br><br>
 
 - 👋 Hi, I’m Siba Prasad Das
-- 💼 I'm a student in NIT rourkela 
+- 💼 Final Year UG At NIT Rourkela 
 - 💬 Talk to me about Data science & AI/ML
 - 👯 I’m looking to collaborate on AI Research Projects 
 
