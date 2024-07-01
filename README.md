@@ -13,7 +13,7 @@
 <br><br>
 
 - 👋 Hi, I’m Siba Prasad Das
-- 💼 Final Year UG At NIT Rourkela 
+- 💼 BTech Final Year Undergraduate At NIT Rourkela 
 - 💬 Talk to me about Data science, AI/ML, NLP
 - 👯 I’m looking to collaborate on AI Research Projects, Langchain Based Projects, AI Powered App Development Projects. 
 
