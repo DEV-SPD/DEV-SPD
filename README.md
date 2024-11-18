@@ -15,7 +15,7 @@
 - 👋 Hi, I’m Siba Prasad Das
 - 💼 BTech Final Year Undergraduate At NIT Rourkela 
 - 💬 Talk to me about Data science, AI/ML, NLP
-- 👯 I’m looking to collaborate on AI Research Projects, Langchain Based Projects, AI Powered App Development Projects. 
+- 👯 I’m looking to collaborate on AI Research Projects, AI Powered App Development Projects. 
 
 <a href="https://www.linkedin.com/in/siba-prasad-das-b61b5a220/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
